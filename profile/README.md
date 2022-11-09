@@ -2,18 +2,21 @@
 <h3><p align="center">Don't code alone. Code for the community</p></h3>
 
 ### 🚀 Who are we?
+
 [Google Developer Student Clubs, National Institute of Technology, Rourkela](https://dscnitrourkela.org/) is a Google Developers program for university students to learn programming skills. The club is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills.
-The club is intended as a space for students to try out new ideas and collaborate to solve mobile and web development problems. 
+The club is intended as a space for students to try out new ideas and collaborate to solve mobile and web development problems.
 
 ---
 
 ### 👀 What we do?
-GDSC NIT Rourkela has organised a number of workshops, fun events and meetups with students in and around NIT Rourkela to promote learning and developer skills among themselves. 
+
+GDSC NIT Rourkela has organised a number of workshops, fun events and meetups with students in and around NIT Rourkela to promote learning and developer skills among themselves.
 To know more about our recent updates, [check this out](https://www.instagram.com/dscnitrourkela).
 
 We also organise the flagship hackathon of NIT Rourkela, [HackNITR](https://hacknitr.tech).
 
 We also love to code for the community. Solving problems for our local community is our priority. We have made some awesome projects and we enourage contributions from everyone-
+
 - [Institute Counselling Services App](https://play.google.com/store/apps/details?id=in.ac.nitrkl.scp.scp) - [`project-avocado`](https://github.com/dscnitrourkela/project-avocado) & [`project-avocado-web`](https://github.com/dscnitrourkela/project-avocado-web)
 - [Avenue for NITR](https://avenue.nitrkl.in/app) - [`project-elaichi`](https://github.com/dscnitrourkela/project-elaichi) & [`project-dates`](https://github.com/dscnitrourkela/project-dates)
 - [Certificate Generator](https://signit.dscnitrourkela.org/) - [`project-guava`](https://github.com/dscnitrourkela/project-guava) & [`project-guava-web`](https://github.com/dscnitrourkela/project-guava-web)
@@ -25,9 +28,7 @@ We also love to code for the community. Solving problems for our local community
 - [HackNITR Website](https://hacknitr.tech) - [`project-oregano`](https://github.com/dscnitrourkela/project-oregano)
 - [Innovision 2022 Website](https://inno.nitrkl.in/)-[`project-raisin`](https://github.com/dscnitrourkela/project-raisin)
 
-
 ---
-
 
 <div align="center" > 
 	<a href="https://www.linkedin.com/company/dscnitrourkela/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
